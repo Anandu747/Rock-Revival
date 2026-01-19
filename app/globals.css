@@ -23,4 +23,25 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  @apply bg-black text-white;
 }
+
+/* Pagination dots */
+/* .custom-pagination .swiper-pagination-bullet {
+  background: #6b7280; 
+  opacity: 1;
+}
+
+.custom-pagination .swiper-pagination-bullet-active {
+  background: #d4af37;
+} */
+
+.custom-pagination .swiper-pagination-bullet {
+  background: #6b7280; /* grey */
+  opacity: 1;
+}
+
+.custom-pagination .swiper-pagination-bullet-active {
+  background: #d4af37; /* gold */
+}
+
