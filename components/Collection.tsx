@@ -48,7 +48,7 @@ export default function Collection() {
   return (
     <section className="relative px-10 py-24 text-center bg-black">
       <h2 className="text-4xl tracking-widest mb-12">
-        FEATURED <span className="text-[#D4AF37]">COLLECTION</span>
+         <span className="text-[#D4AF37]">FEATURED COLLECTION</span>
       </h2>
 
       <Swiper

@@ -18,7 +18,7 @@ export default function FeaturedBanner() {
       <div className="relative z-10 flex h-full items-end justify-center pb-20 text-center">
         <div>
           <h2 className="text-3xl md:text-4xl tracking-widest font-light">
-            THE PERFECT
+            <span style={{color:"#D4AF37"}}>THE PERFECT</span>
             <span className="block text-[#D4AF37] mt-2">PAIR</span>
           </h2>
 

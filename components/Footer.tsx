@@ -19,12 +19,12 @@ export default function Footer() {
         </div>
 
         {/* Swiss made */}
-        <div className="text-center text-sm">
+        {/* <div className="text-center text-sm">
           <div className="w-8 h-8 mx-auto mb-2 rounded-full bg-red-600 flex items-center justify-center text-white font-bold">
             +
           </div>
           Swiss made <br /> watches
-        </div>
+        </div> */}
 
         {/* Country */}
         <div className="text-sm">

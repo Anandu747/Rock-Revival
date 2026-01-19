@@ -21,7 +21,7 @@ export default function MagazineSection() {
             className="w-full h-[360px] object-cover mb-6"
           />
           <h3 className="text-sm font-semibold tracking-widest mb-2">
-            ROCK REVIVAL: THE ART OF CRAFTING TIME
+            <span style={{color:"#D4AF37"}}>ROCK REVIVAL: THE ART OF CRAFTING TIME</span>
           </h3>
           <p className="text-sm text-gray-500 mb-4">
             January 13, 2026
@@ -40,7 +40,7 @@ export default function MagazineSection() {
             className="w-full h-[360px] object-cover mb-6"
           />
           <h3 className="text-sm font-semibold tracking-widest mb-2">
-            INSIDE THE MOVEMENT: ENGINEERING PERFECTION
+            <span style={{color:"#D4AF37"}}>INSIDE THE MOVEMENT: ENGINEERING PERFECTION</span>
           </h3>
           <p className="text-sm text-gray-500 mb-4">
             December 9, 2025
@@ -59,7 +59,7 @@ export default function MagazineSection() {
             className="w-full h-[360px] object-cover mb-6"
           />
           <h3 className="text-sm font-semibold tracking-widest mb-2">
-            A STORY ROOTED IN HERITAGE
+            <span style={{color:"#D4AF37"}}>A STORY ROOTED IN HERITAGE</span>
           </h3>
           <p className="text-sm text-gray-500 mb-4">
             December 1, 2025
